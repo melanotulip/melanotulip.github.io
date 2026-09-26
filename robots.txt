@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://melanotulip.github.io/al-folio/sitemap.xml
+Sitemap: https://melanotulip.github.io/sitemap.xml
