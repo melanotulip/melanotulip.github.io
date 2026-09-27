@@ -11,7 +11,7 @@ nav_order: 5
     <a href="https://music.apple.com/us/playlist/top-100-cuts-in-the-10s/pl.u-9N9LXPpF1NbWxp9"
        target="_blank">
       <img
-        src="{{ '/assets/img/chart-2.jpeg' | relative_url }}"
+        src="{{ '/assets/img/chart-2.png' | relative_url }}"
         class="img-fluid rounded"
         alt="Top 100 Cuts in the 10s">
     </a>
