@@ -11,7 +11,7 @@ nav_order: 4
 <br>
 
 <iframe
-  src="/assets/pdf/Ryan_Li_CV-202610.pdf"
+  src="/assets/pdf/Ryan_Li_CV_202610.pdf"
   width="100%"
   height="1100px"
   style="border: none;">
