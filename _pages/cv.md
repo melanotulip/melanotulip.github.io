@@ -6,12 +6,12 @@ nav: true
 nav_order: 4
 ---
 
-[Download CV](/assets/pdf/Ryan_Li_CV.pdf){:target="_blank"}
+[Download CV](/assets/pdf/Ryan_Li_CV_202610.pdf){:target="_blank"}
 
 <br>
 
 <iframe
-  src="/assets/pdf/Ryan_Li_CV.pdf"
+  src="/assets/pdf/Ryan_Li_CV-202610.pdf"
   width="100%"
   height="1100px"
   style="border: none;">
